@@ -9,7 +9,7 @@ A mobile application that helps students discover scholarships and international
 - Mobile-first experience
 
 ## Screenshots
-(Add screenshots here)
+uploaded 
 
 ## Download APK
 Download the latest version from the Releases section:
