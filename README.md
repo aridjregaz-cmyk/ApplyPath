@@ -1,2 +1,9 @@
 # ApplyPath
-A mobile application that helps students discover scholarships, study opportunities, and international programs through a simple and accessible interface.
+
+A mobile app that helps students discover scholarships and international opportunities.
+
+## Screenshots
+(images here)
+
+## Download APK
+Available in the Releases section.
